@@ -1,5 +1,4 @@
-# basic-of-nlp-and-qa-for-the-interview
-
+# qa for the nlp interview
 ML and DL in nlp
 
 1.在LSTM为什么要用 sigmod 和 tanh函数做激活函数？（GRU）
